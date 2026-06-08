@@ -73,19 +73,19 @@ Analyzes:
 
 ## Repository Structure
 
-```text
-NHS-Patient-Flow-Waiting-Time-Analytics
-│
-├── README.md
-├── NHS_Patient_Flow_Waiting_Time_Analytics.pbix
-│
-├── SQL_Analysis
-│   └── nhs_patient_flow_analysis.sql
-│
-└── Dashboard_Screenshots
-    ├── Executive_Overview.png
-    ├── Patient_Experience_Equity_Analysis.png
-    └── Patient_Demographics_Segmentation.png
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Dashboard_Screenshots/Executive_Overview.png)
+
+### Patient Experience & Equity Analysis
+
+![Patient Experience & Equity Analysis](Dashboard_Screenshots/Patient_Experience_Equity_Analysis.png)
+
+### Patient Demographics & Segmentation
+
+![Patient Demographics & Segmentation](Dashboard_Screenshots/Patient_Demographics_Segmentation.png)
 ```
 
 ---
