@@ -87,11 +87,10 @@ Analyzes:
 
 ![Patient Demographics & Segmentation](Dashboard_Screenshots/Patient_Demographics_Segmentation.png)
 ```
-
----
-
 ## Author
 
-**Raisa Islam Megha**  
-BA (Hons) Business Management  
+**Raisa Islam Megha**
+
+BA (Hons) Business Management
+
 University of Greenwich
