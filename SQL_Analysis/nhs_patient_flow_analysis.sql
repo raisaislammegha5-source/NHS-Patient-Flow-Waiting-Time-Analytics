@@ -1,6 +1,12 @@
+-- =====================================================
 -- NHS Patient Flow & Waiting Time Analytics
--- Author: Raisa Islam Megha
--- Database: PostgreSQL
+-- =====================================================
+-- Author      : Raisa Islam Megha
+-- Degree      : BA (Hons) Business Management
+-- Institution : University of Greenwich
+-- Tools Used  : PostgreSQL, SQL, Power BI
+-- Project Type: Healthcare Analytics Dashboard
+-- =====================================================
 
 --------------------------------------------------
 -- 1. Total Patients
