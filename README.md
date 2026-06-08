@@ -85,8 +85,8 @@ Analyzes:
 
 ## Author
 
-Asif Nibir
+Raisa Islam Megha
 
-MSc Data Science & Analytics
+BA (Hons) Business Management
 
-Brunel University London
+University of Greenwich
