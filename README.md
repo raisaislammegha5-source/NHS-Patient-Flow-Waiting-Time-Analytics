@@ -92,7 +92,6 @@ NHS-Patient-Flow-Waiting-Time-Analytics
 
 ## Author
 
-**Raisa Islam Megha**
-BA (Hons) Business Management
+**Raisa Islam Megha**  
+BA (Hons) Business Management  
 University of Greenwich
-
